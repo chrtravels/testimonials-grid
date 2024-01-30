@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chrtravels.github.io/testimonials-grid/](https://chrtravels.github.io/testimonials-grid/)
 
 
 ### Built with
